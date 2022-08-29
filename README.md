@@ -6,3 +6,5 @@ This template includes some very basic but important features of LaTeX, includin
 *  Berkeley's DS100 guide to LaTeX ([link](https://ds100.org/sp22/latex_guide/))
 
 You can write and compile LaTeX for free using Overleaf. Create an account and get started [here](https://www.overleaf.com/).
+
+To get started with my template, download all three files and upload to a new Overleaf project. You should be able to compile and see the same result as the PDF included in this repository. 
